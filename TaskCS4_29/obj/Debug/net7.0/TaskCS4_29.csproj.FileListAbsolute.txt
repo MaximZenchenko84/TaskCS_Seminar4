@@ -1,0 +1,15 @@
+C:\Users\asus\Examples4\TaskCS4_29\bin\Debug\net7.0\TaskCS4_29.exe
+C:\Users\asus\Examples4\TaskCS4_29\bin\Debug\net7.0\TaskCS4_29.deps.json
+C:\Users\asus\Examples4\TaskCS4_29\bin\Debug\net7.0\TaskCS4_29.runtimeconfig.json
+C:\Users\asus\Examples4\TaskCS4_29\bin\Debug\net7.0\TaskCS4_29.dll
+C:\Users\asus\Examples4\TaskCS4_29\bin\Debug\net7.0\TaskCS4_29.pdb
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\TaskCS4_29.csproj.AssemblyReference.cache
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\TaskCS4_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\TaskCS4_29.AssemblyInfoInputs.cache
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\TaskCS4_29.AssemblyInfo.cs
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\TaskCS4_29.csproj.CoreCompileInputs.cache
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\TaskCS4_29.dll
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\refint\TaskCS4_29.dll
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\TaskCS4_29.pdb
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\TaskCS4_29.genruntimeconfig.cache
+C:\Users\asus\Examples4\TaskCS4_29\obj\Debug\net7.0\ref\TaskCS4_29.dll
